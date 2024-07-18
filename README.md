@@ -31,7 +31,7 @@ The To-Do List Project is a simple yet powerful tool designed to help users mana
     ```
 2. Navigate to the project directory:
     ```sh
-    cd todolist-project
+    cd ToDoList
     ```
 3. Install the dependencies:
     ```sh
