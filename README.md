@@ -27,7 +27,7 @@ The To-Do List Project is a simple yet powerful tool designed to help users mana
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/sanjaikrp/todolist-project.git
+    git clone https://github.com/sanjaikrp/ToDoList.git
     ```
 2. Navigate to the project directory:
     ```sh
